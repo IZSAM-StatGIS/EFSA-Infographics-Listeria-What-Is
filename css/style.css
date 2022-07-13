@@ -3,6 +3,14 @@ html{
   font-family: 'Verdana', sans-serif !important;
 }
 
+h1{
+  color: #fff;
+  margin: 1.2rem;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 1.8rem;
+}
+
 .infographics-wrap{
   display: block;
   position: absolute;
@@ -25,77 +33,77 @@ html{
 
 .c1{
   width: 93px;
-  transform: translate(-112px, 30px) rotate(-26deg);
+  transform: translate(-112px, 100px) rotate(-26deg);
 }
 
 .c2{
   width: 101px;
-  transform: translate(-82px, -31px) rotate(-26deg);
+  transform: translate(-82px, 39px) rotate(-26deg);
 }
 
 .c3{
   width: 100px;
-  transform: translate(-41px, -92px) rotate(-26deg);
+  transform: translate(-41px, -22px) rotate(-26deg);
 }
 
 .c4{
   width: 108px;
-  transform: translate(-12px, -159px) rotate(-26deg);
+  transform: translate(-12px, -89px) rotate(-26deg);
 }
 
 .c5{
   width: 98px;
-  transform: translate(26px, -215px) rotate(-26deg);
+  transform: translate(26px, -145px) rotate(-26deg);
 }
 
 .c6{
   width: 90px;
-  transform: translate(36px, -368px) rotate(-26deg);
+  transform: translate(36px, -298px) rotate(-26deg);
 }
 
 .c7{
   width: 110px;
-  transform: translate(-118px, -292px) rotate(-26deg);
+  transform: translate(-118px, -222px) rotate(-26deg);
 }
 
 .c8{
   width: 60px;
-  transform: translate(-109px, -245px) rotate(-26deg);
+  transform: translate(-109px, -175px) rotate(-26deg);
 }
 
 .c9{
   width: 60px;
-  transform: translate(-142px, -104px) rotate(-26deg);
+  transform: translate(-142px, -34px) rotate(-26deg);
 }
 
 .c10{
   width: 160px;
-  transform: translate(-270px, 62px) rotate(-26deg);
+  transform: translate(-270px, 132px) rotate(-26deg);
 }
 
 .c11{
   width: 90px;
-  transform: translate(-51px, 67px) rotate(-26deg);
+  transform: translate(-51px, 137px) rotate(-26deg);
 }
 
 .c12{
   width: 90px;
-  transform: translate(50px, -29px) rotate(-26deg);
+  transform: translate(50px, 59px) rotate(-26deg);
 }
 
 .c13{
   width: 170px;
-  transform: translate(56px, -83px) rotate(-26deg);
+  transform: translate(56px, -3px) rotate(-26deg);
 }
 
 .c14{
   width: 97px;
-  transform: translate(116px, -157px) rotate(-26deg);
+  transform: translate(116px, -87px) rotate(-26deg);
 }
 
 .c15{
   width: 94px;
-  transform: translate(104px, -243px) rotate(-26deg);
+  transform: translate(104px, -173px) rotate(-26deg);
 }
 
 .ic{
@@ -109,27 +117,27 @@ html{
 
 .ic-therm {
   width: 19px;
-  transform: translate(-78px, 65px);
+  transform: translate(-78px, 135px);
 }
 
 .ic-hum{
   width: 30px;
-  transform: translate(-48px, 6px);
+  transform: translate(-48px, 76px);
 }
 
 .ic-ph{
   width: 30px;
-  transform: translate(-8px, -59px) rotate(-16deg);
+  transform: translate(-8px, 9px) rotate(-16deg);
 }
 
 .ic-sal{
   width: 36px;
-  transform: translate(25px, -125px);
+  transform: translate(25px, -55px);
 }
 
 .ic-oxi{
   width: 57px;
-  transform: translate(49px, -198px) rotate(-16deg);
+  transform: translate(49px, -128px) rotate(-16deg);
 }
 
 
