@@ -1,27 +1,27 @@
 {
   "temperature": {
     "title": "Temperature",
-    "content": "Most relevant species of Campylobacter can grow at a temperature between 30 and 42 °C, although their optimal range is 37-42 °C. Even if they cannot grow below 30 °C, they can survive at lower temperature, including refrigeration ones, such as -4°C.",
+    "content": "<i>Listeria monocytogenes</i> are psychrotrophic bacteria; they can grow at a large range of temperature, from -2°C to 45°C, although their optimal range is 30-37°C. One of their characteristics is that they can survive at very low temperature, until -18°C.<br><i>L. monocytogenes</i> are sensitive to heat. For example, at 65°C, the population is divided by 10 in 0.2 to 2 min in skimmed milk.",
     "imgUrl": "images/icons/ic_therm.svg"
   },
   "oxygen": {
     "title": "Oxygen",
-    "content": "Campylobacter are “microaerophilic” organisms, meaning that they require oxygen, but at a lower concentration (3-15%) than the one found in the atmosphere (21%) and an elevated concentration of carbon dioxide (10% CO2)\n",
+    "content": "<i>Listeria monocytogenes</i> are facultatively anaerobic and microaerophilic organisms. That means that they are able to grow in presence or absence of O2, as for example under vacuum or modified gas atmosphere.",
     "imgUrl": "images/icons/ic_oxi.svg"
   },
   "ph": {
-    "title": "Ph range",
-    "content": "Campylobacter cannot survive below a pH of 4.9 and above pH 9.0 and can grow optimally at pH 6.5–7.5.",
+    "title": "pH",
+    "content": "<i>Listeria monocytogenes</i> can sustain wide range of pH from 3.3 to 9.6 and can grow optimally at pH 7.0.<br> The regulation considers products with pH ≤ 4,4 or products with pH ≤ 5,0 and aw ≤ 0,94 as unable to support the growth of <i>L. monocytogenes.</i>",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {
     "title": "Water",
-    "content": "With a water activity of 0.987, Campylobater is very sensible to dry environment.",
+    "content": "<i>Listeria monocytogenes</i> can grow with a water activity (aw) > 0.92 but can survive for lower aw. The regulation considers products with aw ≤ 0,92 and products with pH ≤ 5,0 and aw ≤ 0,94  as unable to support the growth of <i>L. monocytogenes</i>.",
     "imgUrl": "images/icons/ic_hum.svg"
   },
   "salinity": {
     "title": "Salinity",
-    "content": "Campylobacter has a low tolerance to salt, and it cannot grow with sodium chloride concentrations above 2.0%, with optimal growth at 0.5%. The concentrations are well below the ones used in those foods where salt is used as preservative.",
+    "content": "<i>Listeria monocytogenes</i> are able to survive in high salinity concentration (> 20.0%). Their optimal growth is with 12% of sodium chloride.",
     "imgUrl": "images/icons/ic_salinity.svg"
   }
 

@@ -7,102 +7,102 @@
 
   .c1{
     width: 102px;
-    transform: translate(-166px, -7px);
+    transform: translate(-166px, 42px);
   }
 
   .c2{
     width: 111px;
-    transform: translate(-111px, -52px);
+    transform: translate(-111px, -2px);
   }
 
   .c3{
     width: 110px;
-    transform: translate(-41px, -92px);
+    transform: translate(-41px, -42px);
   }
 
   .c4{
     width: 120px;
-    transform: translate(18px, -143px);
+    transform: translate(18px, -93px);
   }
 
   .c5{
     width: 108px;
-    transform: translate(86px, -182px);
+    transform: translate(86px, -132px);
   }
 
   .c6{
     width: 80px;
-    transform: translate(162px, -304px);
+    transform: translate(162px, -254px);
   }
 
   .c7{
     width: 90px;
-    transform: translate(-12px, -280px);
+    transform: translate(-12px, -230px);
   }
 
   .c8{
     width: 55px;
-    transform: translate(-42px, -257px);
+    transform: translate(-42px, -207px);
   }
 
   .c9{
     width: 60px;
-    transform: translate(-139px, -148px);
+    transform: translate(-139px, -98px);
   }
 
   .c10{
     width: 160px;
-    transform: translate(-327px, -28px);
+    transform: translate(-327px, 20px);
   }
 
   .c11{
     width: 90px;
-    transform: translate(-123px, 47px);
+    transform: translate(-123px, 97px);
   }
 
   .c12{
     width: 90px;
-    transform: translate(5px, 11px);
+    transform: translate(5px, 62px);
   }
 
   .c13{
     width: 170px;
-    transform: translate(51px, -22px);
+    transform: translate(51px, 29px);
   }
 
   .c14{
     width: 125px;
-    transform: translate(153px, -91px);
+    transform: translate(153px, -41px);
   }
 
   .c15{
     width: 101px;
-    transform: translate(185px, -166px);
+    transform: translate(185px, -116px);
   }
 
   .ic-therm {
     width: 23px;
-    transform: translate(-134px, 26px);
+    transform: translate(-134px, 76px);
   }
 
   .ic-hum{
     width: 33px;
-    transform: translate(-74px, -14px);
+    transform: translate(-74px, 37px);
   }
 
   .ic-ph{
     width: 33px;
-    transform: translate(-10px, -61px) rotate(-16deg);
+    transform: translate(-10px, -11px) rotate(-16deg);
   }
 
   .ic-sal{
     width: 40px;
-    transform: translate(54px, -106px);
+    transform: translate(54px, -56px);
   }
 
   .ic-oxi{
     width: 67px;
-    transform: translate(112px, -162px);
+    transform: translate(112px, -112px);
   }
 
   .modal-box {
