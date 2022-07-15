@@ -11,12 +11,12 @@
   },
   "ph": {
     "title": "pH",
-    "content": "<i>Listeria monocytogenes</i> can sustain wide range of pH from 3.3 to 9.6 and can grow optimally at pH 7.0.<br> The regulation considers products with pH ≤ 4,4 or products with pH ≤ 5,0 and aw ≤ 0,94 as unable to support the growth of <i>L. monocytogenes.</i>",
+    "content": "<i>Listeria monocytogenes</i> can sustain wide range of pH from 3.3 to 9.6 and can grow optimally at pH 7.0.<br>The regulation considers products with pH ≤ 4.4 or products with pH ≤ 5.0 and aw ≤ 0.94 as unable to support the growth of <i>L. monocytogenes.</i>",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {
     "title": "Water",
-    "content": "<i>Listeria monocytogenes</i> can grow with a water activity (aw) > 0.92 but can survive for lower aw. The regulation considers products with aw ≤ 0,92 and products with pH ≤ 5,0 and aw ≤ 0,94  as unable to support the growth of <i>L. monocytogenes</i>.",
+    "content": "<i>Listeria monocytogenes</i> can grow with a water activity (aw) > 0.92 but can survive for lower aw. The regulation considers products with aw ≤ 0.92 and products with pH ≤ 5.0 and aw ≤ 0.94  as unable to support the growth of <i>L. monocytogenes</i>.",
     "imgUrl": "images/icons/ic_hum.svg"
   },
   "salinity": {
